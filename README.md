@@ -1,1 +1,1 @@
-TBD
+Respaldo de los laboratorios del curso Taller de Bases de Datos.
