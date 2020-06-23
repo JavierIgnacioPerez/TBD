@@ -1,1 +1,1 @@
-Respaldo de los laboratorios del curso Taller de Bases de Datos.
+Respaldo del backend del curso Taller de Bases de Datos.
